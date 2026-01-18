@@ -1,0 +1,8 @@
+{
+  "name": "StyleAI - Garderoba Inteligentă",
+  "description": "Asistentul tău personal de stil. Organizează garderoba, primește recomandări de outfit-uri în funcție de vreme și probează virtual haine folosind AI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
